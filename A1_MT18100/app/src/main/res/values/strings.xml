@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">A1_MT18100</string>
+    <string name="roll_no">Roll_no</string>
+    <string name="name">Name</string>
+    <string name="branch">Branch</string>
+    <string name="clear">Clear</string>
+    <string name="submit">Submit</string>
+    <string name="course4">Course4</string>
+    <string name="course3">Course3</string>
+    <string name="course2">Course2</string>
+    <string name="course1">Course1</string>
+
+</resources>
