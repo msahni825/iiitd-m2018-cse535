@@ -29,7 +29,8 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:ems="10"
-            android:hint="Enter Name"
+            android:hint="@string/EnterName"
+            android:digits="qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM"
             android:inputType="textPersonName" />
 
         <TextView
@@ -47,7 +48,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:ems="10"
-            android:hint="Enter Roll No"
+            android:hint="@string/EnterRollNo"
             android:inputType="textPersonName" />
 
         <TextView
@@ -65,7 +66,8 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:ems="10"
-            android:hint="Enter Branch"
+            android:hint="@string/EnterBranch"
+            android:digits="qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM"
             android:inputType="textPersonName" />
 
         <TextView
@@ -83,8 +85,9 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:ems="10"
-            android:hint="Enter Course1"
+            android:hint="@string/EnterCourse1"
             android:inputType="textPersonName" />
+
         <TextView
             android:id="@+id/text5"
             android:layout_width="wrap_content"
@@ -100,7 +103,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:ems="10"
-            android:hint="Enter Course2"
+            android:hint="@string/EnterCourse2"
             android:inputType="textPersonName"
             android:visibility="visible" />
 
@@ -119,7 +122,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:ems="10"
-            android:hint="Enter Course3"
+            android:hint="@string/EnterCourse3"
             android:inputType="textPersonName" />
 
         <TextView
@@ -137,7 +140,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:ems="10"
-            android:hint="Enter Course4"
+            android:hint="@string/EnterCourse4"
             android:inputType="textPersonName" />
 
 
