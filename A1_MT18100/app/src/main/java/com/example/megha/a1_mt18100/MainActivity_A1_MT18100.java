@@ -43,43 +43,43 @@ public class MainActivity_A1_MT18100 extends AppCompatActivity {
                 String course3_val = course3.getText().toString();
                 String course4_val = course4.getText().toString();
 
-                if(name_val.length()==0)
+                if(name_val.trim().length()==0)
 
                 {
                     name.setError("Name Required");
                 }
 
-                else if(roll_val.length()==0)
+                if(roll_val.trim().length()==0)
 
                 {
                     rollno.setError("RollNo Required");
                 }
 
-                else if(branch_val.length()==0)
+                if(branch_val.trim().length()==0)
 
                 {
                     branch.setError("Branch Required");
                 }
 
-               else if(course1_val.length()==0)
+               if(course1_val.trim().length()==0)
 
                 {
                     course1.setError("Course valueRequired");
                 }
 
-                else if(course2_val.length()==0)
+               if(course2_val.trim().length()==0)
 
                 {
                     course2.setError("Course valueRequired");
                 }
 
-                else if(course3_val.length()==0)
+                if(course3_val.trim().length()==0)
 
                 {
                     course3.setError("Course valueRequired");
                 }
 
-                else if(course4_val.length()==0)
+                if(course4_val.trim().replaceAll(" ","").length()==0)
 
                 {
                     course4.setError("Course valueRequired");
