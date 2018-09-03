@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">A2_MT18100_MusicPlayerApp</string>
+
+    <string name="PLAY">play</string>
+    <string name="STOP">stop</string>
+    <string name="PAUSE">pause</string>
+    <string name="Music">music</string>
+    <string name="SONG1">Song1</string>
+    <string name="SONG2">Song2</string>
+    <string name="SONG3">Song3</string>
+    <string name="SONG4">Song4</string>
+</resources>
