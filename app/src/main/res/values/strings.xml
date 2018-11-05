@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizApp_A3_MT18100</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="True"></string>
+    <string name="False"></string>
+
+</resources>
