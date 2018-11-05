@@ -1,0 +1,4 @@
+#Sun Nov 04 18:12:58 IST 2018
+base.0=/home/megha/SensorDataApp_A4_MT18100/app/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex

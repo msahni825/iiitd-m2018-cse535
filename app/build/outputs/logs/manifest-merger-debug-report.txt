@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/32babb29a6affccdbd6012101eab3c7a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/megha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b1bd38a27c0a2662e094f8981c0d90da/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/6358bca491c2e39c3232d3cd9ddadb53/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/1067cd4ff6e8474f101dc914d599ae4a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/232fe77fec67145384f57f67e4a0b121/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b29752caae4c4d8458b791924f08adad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/70a79b47c6323c2e376991bfb8fda3b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/f3ce9d929646355484428b136d63fd37/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c60494cc6708f0bbe64a971d0e7d478b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/cd5ac041b97276c41c67dc7680a4e7ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/f803dabbee8d2d7f007086c913fbe851/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/b2c01f6868fae9f26504a35f78de272c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/cd1f1cdf39d44ae50fd7b8d42b7f3e87/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/2ef27848901ab9ab4d2107d2e3fc3630/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/8db1a3472a48845dd5139008e6867206/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6d3abf1ee80eea97886a46f75589f55d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/bb84e2147928ed39f7c23e88030810ae/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/909e93befe6ea40e18e0843b280224bc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/megha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7a58ee889181b9ddc36f6a4643c5d288/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/322e0dc1bc53ecc4f0e64d8809985782/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/d0d90e45f2e23f6a8951b215f18ea413/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e4c4fba1ce3ff198af01c7eed4954ab2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/megha/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/91ff3bf84eb14a5f2d04440ae0e0a9b9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/megha/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c2e4f6ec51a916bb891af75db69315c0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/megha/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e9e142fb634705ecf444f2a5b4c66fc9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/megha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/97b1ee106d47db46ff0a4905a64bac6e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f5b9ebf3c01eed8564dc28e7e385bc36/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:3:5-57
+		INJECTED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml
+		INJECTED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml
+		ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml
+		ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:7:22-64
+application
+ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:9:5-32:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/megha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b1bd38a27c0a2662e094f8981c0d90da/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/megha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b1bd38a27c0a2662e094f8981c0d90da/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6d3abf1ee80eea97886a46f75589f55d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6d3abf1ee80eea97886a46f75589f55d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/bb84e2147928ed39f7c23e88030810ae/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/bb84e2147928ed39f7c23e88030810ae/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6d3abf1ee80eea97886a46f75589f55d/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.example.megha.sensordataapp_a4_mt18100.MainActivity
+ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.example.megha.sensordataapp_a4_mt18100.AccelerometerActivity
+ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:23:9-59
+	android:name
+		ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:23:19-56
+activity#com.example.megha.sensordataapp_a4_mt18100.GyroscopeActivity
+ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:24:9-55
+	android:name
+		ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:24:19-52
+activity#com.example.megha.sensordataapp_a4_mt18100.ProximityActivity
+ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:25:9-55
+	android:name
+		ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:25:19-52
+activity#com.example.megha.sensordataapp_a4_mt18100.OrientationActivity
+ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:26:9-57
+	android:name
+		ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:26:19-54
+service#com.example.megha.sensordataapp_a4_mt18100.MySensorService
+ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:28:9-52
+	android:name
+		ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:28:18-49
+activity#com.example.megha.sensordataapp_a4_mt18100.GPSSensor
+ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:30:9-47
+	android:name
+		ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:30:19-44
+activity#com.example.megha.sensordataapp_a4_mt18100.NearDetectionActivity
+ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:31:9-68
+	android:name
+		ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml:31:19-56
+uses-sdk
+INJECTED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml
+INJECTED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/32babb29a6affccdbd6012101eab3c7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/32babb29a6affccdbd6012101eab3c7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/megha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b1bd38a27c0a2662e094f8981c0d90da/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/megha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b1bd38a27c0a2662e094f8981c0d90da/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/6358bca491c2e39c3232d3cd9ddadb53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/6358bca491c2e39c3232d3cd9ddadb53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/1067cd4ff6e8474f101dc914d599ae4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/1067cd4ff6e8474f101dc914d599ae4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/232fe77fec67145384f57f67e4a0b121/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/232fe77fec67145384f57f67e4a0b121/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b29752caae4c4d8458b791924f08adad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b29752caae4c4d8458b791924f08adad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/70a79b47c6323c2e376991bfb8fda3b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/70a79b47c6323c2e376991bfb8fda3b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/f3ce9d929646355484428b136d63fd37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/f3ce9d929646355484428b136d63fd37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c60494cc6708f0bbe64a971d0e7d478b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c60494cc6708f0bbe64a971d0e7d478b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/cd5ac041b97276c41c67dc7680a4e7ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/cd5ac041b97276c41c67dc7680a4e7ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/f803dabbee8d2d7f007086c913fbe851/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/f803dabbee8d2d7f007086c913fbe851/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/b2c01f6868fae9f26504a35f78de272c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/b2c01f6868fae9f26504a35f78de272c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/cd1f1cdf39d44ae50fd7b8d42b7f3e87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/cd1f1cdf39d44ae50fd7b8d42b7f3e87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/2ef27848901ab9ab4d2107d2e3fc3630/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/2ef27848901ab9ab4d2107d2e3fc3630/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/8db1a3472a48845dd5139008e6867206/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/8db1a3472a48845dd5139008e6867206/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6d3abf1ee80eea97886a46f75589f55d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6d3abf1ee80eea97886a46f75589f55d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/bb84e2147928ed39f7c23e88030810ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/bb84e2147928ed39f7c23e88030810ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/909e93befe6ea40e18e0843b280224bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/909e93befe6ea40e18e0843b280224bc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/megha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7a58ee889181b9ddc36f6a4643c5d288/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/megha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7a58ee889181b9ddc36f6a4643c5d288/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/322e0dc1bc53ecc4f0e64d8809985782/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/322e0dc1bc53ecc4f0e64d8809985782/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/d0d90e45f2e23f6a8951b215f18ea413/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/d0d90e45f2e23f6a8951b215f18ea413/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e4c4fba1ce3ff198af01c7eed4954ab2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e4c4fba1ce3ff198af01c7eed4954ab2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/megha/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/91ff3bf84eb14a5f2d04440ae0e0a9b9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/megha/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/91ff3bf84eb14a5f2d04440ae0e0a9b9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/megha/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c2e4f6ec51a916bb891af75db69315c0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/megha/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c2e4f6ec51a916bb891af75db69315c0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/megha/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e9e142fb634705ecf444f2a5b4c66fc9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/megha/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e9e142fb634705ecf444f2a5b4c66fc9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/megha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/97b1ee106d47db46ff0a4905a64bac6e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/megha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/97b1ee106d47db46ff0a4905a64bac6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f5b9ebf3c01eed8564dc28e7e385bc36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/megha/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f5b9ebf3c01eed8564dc28e7e385bc36/AndroidManifest.xml:20:5-44
+INJECTED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml
+INJECTED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml
+		ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml
+		INJECTED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml
+		ADDED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml
+		INJECTED from /home/megha/SensorDataApp_A4_MT18100/app/src/main/AndroidManifest.xml
